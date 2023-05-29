@@ -8,6 +8,7 @@ Techniques used:
 4) Maven
 5) Log4j2
 6) JAVA 8
+7) Mockito
 
 Get more detials to use the Recipe OpenAPI, please start the Recipe App, then open the API information link:
 http://localhost:8080/swagger-ui/index.html

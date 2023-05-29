@@ -13,5 +13,5 @@ Get more detials to use the Recipe OpenAPI, please start the Recipe App, then op
 http://localhost:8080/swagger-ui/index.html
 
 Remind:
-Please change the database root user password before to launch the Recipe App!
+1) Please change the database root user password before to launch the Recipe App! The property file is located in src/main/resources/application.properties
 

@@ -12,3 +12,6 @@ Techniques used:
 Get more detials to use the Recipe OpenAPI, please start the Recipe App, then open the API information link:
 http://localhost:8080/swagger-ui/index.html
 
+Remind:
+Please change the database root user password before to launch the Recipe App!
+
